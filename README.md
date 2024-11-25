@@ -5,3 +5,5 @@ A Content Recommendation System Application with TF-IDF Algorithm and Cosine Sim
 Netflix verileri üzerinde TF-IDF algoritması ve Kosinüs benzerliği ile bir İçerik Öneri Sistemi Uygulaması
 
 Özlem Gelemet , Hakan Aydın , Ali Çetinkaya 
+
+Keywords: Natural-language-processing, artificial-intelligence, cosine-similarity, tf-idf-algorithm, Content Recommendation System, Netflix
