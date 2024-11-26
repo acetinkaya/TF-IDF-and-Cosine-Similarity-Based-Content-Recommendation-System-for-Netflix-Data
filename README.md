@@ -40,11 +40,11 @@ Keywords: Natural Language Processing, TF-IDF, Content Recommendation System, Ne
 
 ## How to Cite
 
-- **IEEE**: Ozcan, H. Aydin, and A. Cetinkaya, “Comparison of classification success rates of different machine learning algorithms in the diagnosis of breast cancer,” *Asian Pacific Journal of Cancer Prevention*, vol. 23, no. 10, pp. 3287–3297, Oct. 2022, doi: [10.31557/apjcp.2022.23.10.3287](https://doi.org/10.31557/apjcp.2022.23.10.3287).
+- **IEEE**: Ö. Gelemet, H. Aydin, and A. Çeti̇Nkaya, “Netflix verileri üzerinde TF-IDF algoritması ve Kosinüs benzerliği ile bir İçerik Öneri Sistemi Uygulaması,” AJIT-e Academic Journal of Information Technology, vol. 13, no. 48, pp. 31–52, Feb. 2022, doi: 10.5824/ajite.2022.01.002.x.
 
 - **APA**: Gelemet, Ö., Aydın, H., & Çetinkaya, A. (2022). Netflix verileri üzerinde TF-IDF algoritması ve Kosinüs benzerliği ile bir İçerik Öneri Sistemi Uygulaması. AJIT-E: Academic Journal of Information Technology, 13(48), 31-52. https://doi.org/10.5824/ajite.2022.01.002.x	
 
-- **MLA**: Ozcan, Irem, Hakan Aydin, and Ali Cetinkaya. "Comparison of Classification Success Rates of Different Machine Learning Algorithms in the Diagnosis of Breast Cancer." *Asian Pacific Journal of Cancer Prevention*, vol. 23, no. 10, 2022, pp. 3287-3297. doi: [10.31557/APJCP.2022.23.10.3287](https://doi.org/10.31557/APJCP.2022.23.10.3287).
+- **MLA**: Gelemet, Özlem, Hakan Aydın, and Ali Çetinkaya. "Netflix verileri üzerinde TF-IDF algoritması ve Kosinüs benzerliği ile bir İçerik Öneri Sistemi Uygulaması." AJIT-e: Academic Journal of Information Technology 13.48 (2022): 31-52., 2022,  doi: 10.5824/ajite.2022.01.002.x.
 
 ## License
 
