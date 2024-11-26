@@ -10,7 +10,8 @@ Netflix verileri üzerinde TF-IDF algoritması ve Kosinüs benzerliği ile bir �
 - **Özlem Gelemet**  
   Department of Computer Engineering, Faculty of Engineering and Architecture, Istanbul Gelisim University, Istanbul, Turkey
 
-
+- **Hakan Aydın** 
+  Department of Computer Engineering, Faculty of Engineering, Istanbul Topkapı University, Istanbul, Turkey
 
  , Hakan Aydın , Ali Çetinkaya 
 
