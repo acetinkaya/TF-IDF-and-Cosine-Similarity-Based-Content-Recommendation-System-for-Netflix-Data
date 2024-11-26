@@ -38,9 +38,16 @@ Today, users want to search, find and consume content on online content sites us
 
 Keywords: Natural Language Processing, TF-IDF, Content Recommendation System, Netflix
 
+## How to Cite
 
+- **IEEE**: Ozcan, H. Aydin, and A. Cetinkaya, “Comparison of classification success rates of different machine learning algorithms in the diagnosis of breast cancer,” *Asian Pacific Journal of Cancer Prevention*, vol. 23, no. 10, pp. 3287–3297, Oct. 2022, doi: [10.31557/apjcp.2022.23.10.3287](https://doi.org/10.31557/apjcp.2022.23.10.3287).
 
+- **APA**: Ozcan, I., Aydin, H., & Cetinkaya, A. (2022). Comparison of classification success rates of different machine learning algorithms in the diagnosis of breast cancer. *Asian Pacific Journal of Cancer Prevention: APJCP, 23*(10), 3287.
 
+- **MLA**: Ozcan, Irem, Hakan Aydin, and Ali Cetinkaya. "Comparison of Classification Success Rates of Different Machine Learning Algorithms in the Diagnosis of Breast Cancer." *Asian Pacific Journal of Cancer Prevention*, vol. 23, no. 10, 2022, pp. 3287-3297. doi: [10.31557/APJCP.2022.23.10.3287](https://doi.org/10.31557/APJCP.2022.23.10.3287).
 
+## License
+This work is licensed under a [Creative Commons Attribution-Non Commercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/), allowing non-commercial sharing and adaptation with proper attribution.
 
-Keywords: Natural-language-processing, artificial-intelligence, cosine-similarity, tf-idf-algorithm, Content Recommendation System, Netflix
+![alternatif metin](https://github.com/acetinkaya/TF-IDF-and-Cosine-Similarity-Based-Content-Recommendation-System-for-Netflix-Data/blob/main/Netflix-TF-IDF.png)
+
