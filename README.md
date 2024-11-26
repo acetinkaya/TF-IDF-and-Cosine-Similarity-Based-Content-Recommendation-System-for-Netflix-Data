@@ -13,7 +13,7 @@ A Content Recommendation System Application with TF-IDF Algorithm and Cosine Sim
 - **Hakan Aydın** 
   Department of Computer Engineering, Faculty of Engineering, Istanbul Topkapı University, Istanbul, Turkey
 
-- [**Ali Cetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)  
+- [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)  
   Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey 
 
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
