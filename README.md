@@ -17,4 +17,11 @@ Netflix verileri üzerinde TF-IDF algoritması ve Kosinüs benzerliği ile bir �
 
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
 
+## Article Information
+- **Received**: November 23, 2021  
+- **Accepted**: December 25, 2022
+- **DOI:** 10.31557/APJCP.2022.23.10.3287
+- **Full Article Access Link**: [Comparison of Classification Success Rates of Different Machine Learning Algorithms in the Diagnosis of Breast Cancer](https://journal.waocp.org/article_90310.html)
+
+
 Keywords: Natural-language-processing, artificial-intelligence, cosine-similarity, tf-idf-algorithm, Content Recommendation System, Netflix
