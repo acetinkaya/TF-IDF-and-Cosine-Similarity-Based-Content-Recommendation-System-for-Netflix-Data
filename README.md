@@ -40,7 +40,7 @@ Keywords: Natural Language Processing, TF-IDF, Content Recommendation System, Ne
 
 ## How to Cite
 
-- **IEEE**: Ö. Gelemet, H. Aydin, and A. Çeti̇Nkaya, “Netflix verileri üzerinde TF-IDF algoritması ve Kosinüs benzerliği ile bir İçerik Öneri Sistemi Uygulaması,” AJIT-e Academic Journal of Information Technology, vol. 13, no. 48, pp. 31–52, Feb. 2022, doi: 10.5824/ajite.2022.01.002.x.
+- **IEEE**: Ö. Gelemet, H. Aydin, and A. Çeti̇nkaya, “Netflix verileri üzerinde TF-IDF algoritması ve Kosinüs benzerliği ile bir İçerik Öneri Sistemi Uygulaması,” AJIT-e Academic Journal of Information Technology, vol. 13, no. 48, pp. 31–52, Feb. 2022, doi: 10.5824/ajite.2022.01.002.x.
 
 - **APA**: Gelemet, Ö., Aydın, H., & Çetinkaya, A. (2022). Netflix verileri üzerinde TF-IDF algoritması ve Kosinüs benzerliği ile bir İçerik Öneri Sistemi Uygulaması. AJIT-E: Academic Journal of Information Technology, 13(48), 31-52. https://doi.org/10.5824/ajite.2022.01.002.x	
 
