@@ -22,7 +22,7 @@ A Content Recommendation System Application with TF-IDF Algorithm and Cosine Sim
 - **Received**: November 23, 2021  
 - **Accepted**: December 25, 2022
 - **DOI:** 10.5824/ajite.2022.01.002.x
-- **Full Article Access Link**: [Comparison of Classification Success Rates of Different Machine Learning Algorithms in the Diagnosis of Breast Cancer](https://journal.waocp.org/article_90310.html)
+- **Full Article Access Link**: [Netflix verileri üzerinde TF-IDF algoritması ve Kosinüs benzerliği ile bir İçerik Öneri Sistemi Uygulaması](https://dergipark.org.tr/tr/pub/ajit-e/issue/68716/1012354)
 
 
 Keywords: Natural-language-processing, artificial-intelligence, cosine-similarity, tf-idf-algorithm, Content Recommendation System, Netflix
